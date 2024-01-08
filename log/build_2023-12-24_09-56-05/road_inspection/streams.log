@@ -1,0 +1,21 @@
+[0.714s] Invoking command in '/home/kasm-user/ros2_ws/build/road_inspection': PS1=default:\w$ PYTHONPATH=/home/kasm-user/ros2_ws/build/road_inspection/prefix_override:/home/kasm-user/ros2_ws/install/road_inspection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/kasm-user/ros2_ws/build/road_inspection/build --no-deps install_data
+[0.968s] running develop
+[0.968s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.968s]   warnings.warn(
+[0.970s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.970s]   warnings.warn(
+[1.108s] running egg_info
+[1.108s] writing road_inspection.egg-info/PKG-INFO
+[1.109s] writing dependency_links to road_inspection.egg-info/dependency_links.txt
+[1.110s] writing entry points to road_inspection.egg-info/entry_points.txt
+[1.110s] writing requirements to road_inspection.egg-info/requires.txt
+[1.110s] writing top-level names to road_inspection.egg-info/top_level.txt
+[1.110s] reading manifest file 'road_inspection.egg-info/SOURCES.txt'
+[1.111s] writing manifest file 'road_inspection.egg-info/SOURCES.txt'
+[1.112s] running build_ext
+[1.113s] Creating /home/kasm-user/ros2_ws/install/road_inspection/lib/python3.10/site-packages/road-inspection.egg-link (link to .)
+[1.113s] Installing object_detector script to /home/kasm-user/ros2_ws/install/road_inspection/lib/road_inspection
+[1.114s] 
+[1.114s] Installed /home/kasm-user/ros2_ws/build/road_inspection
+[1.114s] running install_data
+[1.162s] Invoked command in '/home/kasm-user/ros2_ws/build/road_inspection' returned '0': PS1=default:\w$ PYTHONPATH=/home/kasm-user/ros2_ws/build/road_inspection/prefix_override:/home/kasm-user/ros2_ws/install/road_inspection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/kasm-user/ros2_ws/build/road_inspection/build --no-deps install_data

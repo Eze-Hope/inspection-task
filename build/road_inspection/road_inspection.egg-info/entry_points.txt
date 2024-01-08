@@ -1,0 +1,4 @@
+[console_scripts]
+detector4 = road_inspection.detector4:main
+mover = road_inspection.mover:main
+
